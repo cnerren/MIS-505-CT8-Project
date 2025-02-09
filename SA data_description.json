@@ -1,0 +1,25 @@
+{
+  "dataset_name": "South Africa Enrollment and GDP Data (2001-2020)",
+  "columns": [
+    {
+      "column_name": "Country Name",
+      "data_type": "string",
+      "description": "The name of the country (e.g., South Africa)."
+    },
+    {
+      "column_name": "Year",
+      "data_type": "integer",
+      "description": "The year for which the data is recorded (2001 to 2020)."
+    },
+    {
+      "column_name": "Primary Enrollment",
+      "data_type": "float",
+      "description": "Total primary school enrollment for South Africa."
+    },
+    {
+      "column_name": "GDP",
+      "data_type": "float",
+      "description": "Gross Domestic Product (constant 2015 US$) for South Africa."
+    }
+  ]
+}
